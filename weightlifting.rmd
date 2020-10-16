@@ -1,7 +1,7 @@
 title: "Weight lifting analysis using R"
 author: "Harsh Gambhir"
 
-This is a work i have produced for my data science specialization sub course and the analysis is about working on different technique. this is the compilation of the work that i have done for the past two days and i hope its correct.
+This is a work i have produced for my data science specialization sub course and the analysis is about working on different technique. this is the compilation of the work that i have done for the past two days and i hope its correct. this should be good enough. please dont make me suffer anymore. your software has been  real piece of shit.
 
 ```{r,warning=FALSE,message=FALSE,include=FALSE,echo=FALSE}
 
